@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = matias.kambic@gmail.com
+	name = Matias Kambic
